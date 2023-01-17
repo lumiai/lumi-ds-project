@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "lumi-ds-project"
+  site-url: "https://lumiai.github.io/lumi-ds-project"
+  description: "Collection of personal pet data science projects to prove the concept and guide the direction for technical roadmap"
+  repo-branch: main
+  repo-url: "https://github.com/lumiai/lumi-ds-project"
